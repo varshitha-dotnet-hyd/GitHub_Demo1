@@ -11,5 +11,6 @@ namespace GitHub_Demo1
         public int RollNo { get; set; }
         public string Name { get; set; }
         public string Dept { get; set; }
+        public int Age { get; set; }
     }
 }
